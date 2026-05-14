@@ -48,7 +48,7 @@ npm run dev
 ```
 
 ## Project Status
-THis is the firts project of a strong portfolio series.
+This is the first project of a strong portfolio series.
 **Current Phase:** Repository setup and architecture definition.
 
 ---
